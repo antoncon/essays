@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Essays</title>
+    <link>https://example.org/</link>
+    <description>Recent content on Essays</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 25 Aug 2022 21:30:04 +0800</lastBuildDate>
+    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Just write it</title>
+      <link>https://example.org/posts/july72024/</link>
+      <pubDate>Sun, 07 Jul 2024 10:53:37 +0800</pubDate>
+      <guid>https://example.org/posts/july72024/</guid>
+      <description>Whenever I want to learn anything, I do so by writing it down in paragraph form. Writing forces you to structure new information in a way that is understandable to you and to others. An idea might initially make sense to you but its true test is if it understood by others, but more specifically by an &amp;ldquo;imagined other&amp;rdquo;. Will this idea, if I share it with those I wish to share it with, come to life?</description>
+    </item>
+  </channel>
+</rss>
